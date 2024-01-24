@@ -1,6 +1,6 @@
 # STARTER-jpa03
 
-Running at: [http://jpa03-andy-gale.dokku-14.cs.ucsb.edu](https://ucsb-cs156-w24.github.io/jpa03-andy-gale/)
+Running at: http://jpa03-andy-gale.dokku-14.cs.ucsb.edu
 
 # Configuring GitHub Pages for the documentation
 
